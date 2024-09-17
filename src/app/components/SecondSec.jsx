@@ -7,7 +7,7 @@ import { IoRocketOutline } from "react-icons/io5";
 
 export default function SecondSec(){
     return(
-        <div className="features bg-white text-text pb-4 px-4">
+        <div className="features bg-[#eeeef4] text-text pb-4 px-4">
             <div className="features-container text-center">
                 <h2 className="title">Main Features</h2>
                 <p className="pb-32">Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam quaerat eveniet incidunt rem</p>

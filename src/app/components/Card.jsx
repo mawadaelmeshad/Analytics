@@ -1,6 +1,6 @@
 export default function Card({ icon, name, description }) {
     return (
-        <div className="card flex flex-col items-center px-8 bg-white">
+        <div className="card flex flex-col items-center px-8 bg-[#eeeef4]">
             <div className="icon text-6xl mb-4 text-pink">
             {icon}
             </div>
